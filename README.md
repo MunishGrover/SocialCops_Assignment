@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+##Warning
+<br>
+Sometimes on first load graph may not load Just do refresh It will load.
+##Hosted On Heroku
+<br>
+[Sachin-dashboard Hosted Link](https://sachin-dashboard.herokuapp.com/).
 ## Available Scripts
 
 In the project directory, you can run:
