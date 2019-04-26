@@ -1,9 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <br>
-## Warning
-<br>
-Sometimes on first load graph may not load Just do refresh It will load.
-<br>
 
 ## Hosted On Heroku
 <br>
